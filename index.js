@@ -7,6 +7,6 @@ function destructivelyAppendDriver(name){
 };
 
 function destructivelyPrependDriver(name){
-  drivers.pop(name); 
+  drivers.pop(name);
   return drivers;
 }
